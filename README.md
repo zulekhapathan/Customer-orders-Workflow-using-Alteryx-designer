@@ -45,4 +45,9 @@ Report Text tools for polished, client-ready outputs
 
 📤 Exported the final chart using the Render tool to formats like PDF, PNG and HTML.
 
+📦 Organized workflow sections with the Tool Container tool to
+
+Logically group related tools.
+Simplify workflow readability.
+
 ⚡ Outcome: Delivered a fully automated, scalable workflow that reduced manual work, improved data consistency, and produced interactive, insightful reports for stakeholders.
